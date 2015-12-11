@@ -4,7 +4,10 @@
 #include <cmath>
 using namespace std;
 
-//myElements[i].wezly niepotrzebne??!?!?!?!?!
+/*
+implementacja stacjonarnego przeplywu ciepla w 2D
+toDo: rozwiązanie układu równań metodą Gaussa
+*/
 
 const int ne = 12;//elements
 const int nh = 21;//wezly, 0-20
